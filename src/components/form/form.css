@@ -1,0 +1,17 @@
+.firstelem{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    /*border: 1px solid black;
+    border-radius: 5px;*/
+   margin: 20px;
+  }
+ .bt-submit{
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      
+  }
+  .bt-submit :hover{
+      background-color: transparent;
+  }
